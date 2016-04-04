@@ -1,0 +1,10 @@
+{
+    "PYCHARM_DEBUGGER": {
+        "PYCHARM_DEBUG_EGG_PATH": "/home/vagrant/pycharm-debug.egg",
+        "HOST_OS_HOSTNAME": "lawson-mbp.corp.dropbox.com",
+        "HOST_OS_PORT": 56133,
+        "HOST_OS_PORT_TEST": 56134,
+        "HOST_OS_PORT_BLOCKSERVER": 56135,
+        "HOST_OS_PORT_BLOCKSERVER_TEST": 56136
+    }
+}
